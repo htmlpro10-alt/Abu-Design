@@ -1,0 +1,6 @@
+{
+  "name": "Abu Design Studio & Print Lab",
+  "description": "Premier brand identity, signage fabrication, and commercial print studio based in Madurai, India. Precision offset printing, 3D architectural signage, and custom packaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
